@@ -1,0 +1,81 @@
+{
+    "PublicService": {
+    "name": "Issuance of unemployment card",
+    "evidence": [
+        {
+            "id": 5,
+            "evs": [
+                {
+                    "id": "ev0001",
+                    "type": "Evidence",
+                    "name": "Deposit Account Number (IVAN), in which the insured is the first beneficiary.",
+                    "description": "Deposit Account Number (IVAN), in which the insured is the first beneficiary."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "evs": [
+                {
+                    "id": "ev0013",
+                    "type": "Evidence",
+                    "name": "Termination of Employment Contract (Form E6) signed by the unemployed.",
+                    "description": "Termination of Employment Contract (Form E6) signed by the unemployed."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "evs": [
+                {
+                    "id": "ev0002",
+                    "type": "Evidence",
+                    "name": "Details of salaried work (days of insurance) and self-employment",
+                    "description": "Details of salaried work (days of insurance) and self-employment"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "evs": [
+                {
+                    "id": "ev0004",
+                    "type": "Evidence",
+                    "name": "Indirect insurance capacity of protected family members, if any.",
+                    "description": "Indirect insurance capacity of protected family members, if any."
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "evs": [
+                {
+                    "id": "ev0003",
+                    "type": "Evidence",
+                    "name": "Identification with TAXISnet codes, Identification document, Identification with P.S. codes. e-services DYPA (former OAED).",
+                    "description": "Identification with TAXISnet codes, Identification document, Identification with P.S. codes. e-services DYPA (former OAED)."
+                }
+            ]
+        }
+    ],
+    "criterion_requirments": [
+        {
+            "id": "cr0001",
+            "name": "Applicants must be 15-74 years old"
+        },
+        {
+            "id": "cr0002",
+            "name": "Applicants must be able to work."
+        },
+        {
+            "id": "cr0003",
+            "name": "Applicants must be available for work."
+        },
+        {
+            "id": "cr0004",
+            "name": "Applicants must be actively looking for work."
+        }
+    ]
+}
+
+}

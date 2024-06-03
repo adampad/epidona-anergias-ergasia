@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "question": "How old are you?",
+        "options": [ "15-74","Under 15", "Over 74"]
+    },
+    {
+        "id": 1,
+        "question": "Are you able to work?",
+        "options":["Yes","No"]
+    },
+    {
+        "id": 2,
+        "question": "Are you available for work?",
+        "options": ["Yes","No"]
+    },
+    {
+        "id": 3,
+        "question": "You are willing to actively look for work during the duration of the benefit",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 4,
+        "question": "Do you meet the work requirements?",
+        "options": ["Yes","No"]
+    },
+    {
+        "id": 5,
+        "question": "Is it during your military service?",
+        "options": ["Yes","No"]
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "id": 0,
+        "question": "How much does it cost to issue an unemployment card?",
+        "answer": "It is provided free of charge."
+    },
+    {
+        "id": 1,
+        "question": "What is the date of declaration of attendance?",
+        "answer": "The declaration of presence is made every two months from the inclusion of the interested party in the subsidy"
+    },
+    {
+        "id": 2,
+        "question": "What is the period of validity of the unemployment card?",
+        "answer": "The period of validity is proportional to the marks available to the applicant"
+    },
+    {
+        "id": 3,
+        "question": "The process of issuing the unemployment card is provided digitally",
+        "answer": "Yes, it is available digitally."
+    },
+    {
+        "id": 4,
+        "question": "Where can I apply?",
+        "answer": " You can visit https://www.gov.gr/ipiresies/ergasia-kai-asphalise/anergia/ekdose-deltiou-anergias"
+    }
+]
